@@ -1,4 +1,4 @@
-# Laravel eCommerce Platform
+# Laravel eCommerce Platform (This is AI Vibe Coding Experiment)
 
 ![Dashboard](dashboard.png)
 
